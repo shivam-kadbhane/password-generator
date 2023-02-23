@@ -4,6 +4,9 @@ body {
     margin: 0;
     background: #1F2937;
     font-family: 'Poppins', sans-serif;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 }
 
 p1 {
@@ -28,6 +31,14 @@ p3 {
 
 .main {
     padding: 45px;
+    border: solid;
+    max-width: 50%;
+    max-height: 50%;
+    margin-top: 60pt;
+    margin-left: 225pt;
+    border: solid;
+    border-color: #273549;
+    border-radius: 6px;
 }
 
 .generatebutton {
@@ -54,6 +65,9 @@ p3 {
     background-color: #273549;
     height: 39px;
     width: 211px;
+    color: white;
+    border: none;
+    border-radius: 6px;
     -webkit-user-select: text;
     -moz-user-select: text;
     -ms-user-select: text;
@@ -64,6 +78,9 @@ p3 {
     background-color: #273549;
     height: 39px;
     width: 211px;
+    color: white;
+    border: none;
+    border-radius: 6px;
     margin-left: 24px;
     -webkit-user-select: text;
     -moz-user-select: text;
