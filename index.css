@@ -30,7 +30,7 @@ p3 {
     padding: 45px;
 }
 
-button {
+.generatebutton {
     background-color: #10B981;
     color: white;
     display: inline-block;
