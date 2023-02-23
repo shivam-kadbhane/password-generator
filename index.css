@@ -68,10 +68,13 @@ p3 {
     color: white;
     border: none;
     border-radius: 6px;
+    text-align: center;
+    padding-top: 10px;
     -webkit-user-select: text;
     -moz-user-select: text;
     -ms-user-select: text;
     user-select: text;
+    resize: none;
 }
 
 .passwordbox2 {
@@ -81,9 +84,12 @@ p3 {
     color: white;
     border: none;
     border-radius: 6px;
+    text-align: center;
+    padding-top: 10px;
     margin-left: 24px;
     -webkit-user-select: text;
     -moz-user-select: text;
     -ms-user-select: text;
     user-select: text;
+    resize: none;
 }
